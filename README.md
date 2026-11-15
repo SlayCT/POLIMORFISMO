@@ -23,7 +23,7 @@ A atividade trabalha dois exercícios:
 
 **1 - Explique como a sobrescrita de métodos permite comportamentos diferentes para objetos da mesma hierarquia.**
 
-A sobrescrita permite que uma subclasse tenha sua própria versão de um método que já existe na classe principal, então mesmo que as classes: Carro e Bicicleta herdem de Veiculo, cada uma pode executar o método mover( ) de uma maneira diferente. Isso é um exemplo de polimorfismo, pois o mesmo método apresenta comportamentos diferentes dependendo do objeto
+A sobrescrita permite que uma subclasse tenha sua própria versão de um método que já existe na classe principal, então mesmo que as classes: *Carro* e *Bicicleta* herdem de *Veiculo*, cada uma pode executar o método *mover( )* de uma maneira diferente. Isso é um exemplo de polimorfismo, pois o mesmo método apresenta comportamentos diferentes dependendo do objeto
 
 
 **2 - Descreva o mecanismo de sobrecarga de métodos e como ele difere da sobrescrita em termos de polimorfismo.**
